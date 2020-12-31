@@ -362,7 +362,7 @@ footer{
 	height: 2px;
 	background-color: blue;
 }
-@media only screen and (max-width: 648px){
+@media only screen and (min-width:320px) and (max-width: 648px) {
 .banner_headline{
 	padding:20px;
 }
